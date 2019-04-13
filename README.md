@@ -66,7 +66,7 @@ Android实习工程师
   - [微信二次封装库](https://github.com/KilleTom/RxWechatToolsMaster)：分别为Tools和Client两个工具库，Tools针对于不需要登录支付，只需要简单分享图片网页以及视频等一些封装，避免图片分享产生图片过大的适当压缩图片分享；Client基于Tools针对需要登陆支付等封装，通过实现接口即可实现其回调。
   - [基于Android5.0以上的网络状态监听回调](https://github.com/KilleTom/RxNetworkClientDemo)：通过使用该库可以简易的监听网络状态实时变化，可用于调用实时网络资源等场景。
   - [刘海屏适配工具库](https://github.com/KilleTom/BangScreenToolsMaster)：通过使用该库简易的适配刘海屏。
-  - [18年毕业设计-生活类App](https://github.com/KilleTom/supportQuickNews)：使用
+  - [18年毕业设计-生活类App](https://github.com/KilleTom/supportQuickNews)：使用Bmob云后台，阿里热更新、buggly、mvvm、rxJava1等常用主流技术
 
 ## 技术文章
 - [RxJava2极速入门——Rxjava操作符详解之过滤操作符](https://blog.csdn.net/qq_29856589/article/details/89054897)
