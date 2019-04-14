@@ -2,7 +2,8 @@
 # 个人信息
 
  - 易庞宙/男/1993
- - 本科/桂林电子科技大学
+ - 大专/广西英华国际职业学院 （2013.09-2016.07   软件技术 ）                                                         
+ - 本科/桂林电子科技大学（专升本全日制 2016.09-2018.07）计算机科学与技术
  - 工作年限：2-3年
  - 技术博客：[https://blog.csdn.net/qq_29856589](https://blog.csdn.net/qq_29856589)
  - Github：[https://github.com/KilleTom](https://github.com/KilleTom)
