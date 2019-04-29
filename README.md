@@ -2,8 +2,8 @@
 # 个人信息
 
  - 易庞宙/男/1993
- - 大专/广西英华国际职业学院 （2013.09-2016.07   软件技术 ）                                                         
  - 本科/桂林电子科技大学（专升本全日制 2016.09-2018.07）计算机科学与技术
+ - 大专/广西英华国际职业学院 （2013.09-2016.07   软件技术 ）                                                         
  - 工作年限：2-3年
  - 技术博客：[https://blog.csdn.net/qq_29856589](https://blog.csdn.net/qq_29856589)
  - Github：[https://github.com/KilleTom](https://github.com/KilleTom)
@@ -27,10 +27,12 @@
 - RetrofitClient 根据自己现有github库以及后台阿里云网关返回的数据模型二次封装
 - KilleTomRxMaterialDesignUtil 自己现有githubUi库
 - smartrefresh 开源刷新的工具库
-- 华视电子读卡器JAR 用来读取身份证
+- 基于华视电子蓝牙读卡器JAR二次封装采用RxJava2+IPC[AIDL]用来读取身份证实现设备重试以及读取等功能
 - glide 图片加载库
 - java以及Kotlin混编
 - sw适配方式进行屏幕适配
+- svg图片适配减少apk包容量
+- 采用MVVM对逻辑以及ui区分开发
 
 ### 其他项目
 
@@ -53,7 +55,7 @@
 - 使用微信原生SDK实现微信登陆分享支付等;
 - 使用腾讯buggly统计bug定位bug发生代码所在区域以进行代码修复;
 ## 桂林电子科技大学北海校区后勤报修App  （ 2017年8月 ~ 2017年10月 ）
-勤工助学项目。
+勤工助学项目；为学校解决传统上报设备维修以及人工处理保障等痛点，使得保障处理维修更加便捷以及后勤设备管理更为便捷。
 ## 广州微创软件科技有限公司 （ 2016年7月 ~ 2016年9月 ）
 Android实习工程师
 ### 外包项目 
@@ -84,11 +86,13 @@ Android实习工程师
 - 掌握阿里热更新与腾讯buggly的相互使用实现在线修复AppBug或者在线更新App;
 - Retrofit+OkHttp+Gson+RxJava;
 - 熟悉代码分层架构如：MVP、MVVM;
+- 掌握蓝牙通信
 - 熟悉Scoke.io框架与EventBus互调使用
 - 熟悉图片三方处理如：ImageLoder 、Fresco等;
 - 熟悉属性动画与插入器源码的相互使用;
 - 熟悉一些常用三方开发框架如Rxtoolsl ，smartrefresh，Bmob云等
-      
+- 熟悉svg图片使用以及sm方式适配ui布局
+    
 ---      
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
