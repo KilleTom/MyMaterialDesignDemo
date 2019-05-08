@@ -92,6 +92,7 @@ Android实习工程师
 - 熟悉属性动画与插入器源码的相互使用;
 - 熟悉一些常用三方开发框架如Rxtoolsl ，smartrefresh，Bmob云等
 - 熟悉svg图片使用以及sm方式适配ui布局
+- 熟悉AIDL通信
     
 ---      
 # 致谢
